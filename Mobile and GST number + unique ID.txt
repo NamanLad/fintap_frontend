@@ -1,0 +1,29 @@
+Mobile and GST number + unique ID
+list distur have linked of pending invoice
+notification to stocist for invoice approval / pending
+pie chart for accepted/pending invoice citivise
+weekly bar chat of loans outstanding per region 
+retailer should have acceptance and rejection
+instead of retailer id -> retailer code
+remvoe status make it pending by default "pending"
+in invoice has %on amount not mount with tax
+push notification
+payment automation
+Change password
+
+
+
+add a limit to retailer while adding first time
+- color combination
+
+Gauge instead of circle
+
+
+
+aPPP ADD FOOTER HIGHLIGH loans 
+
+
+cheque payment date, no & bank in payment
+
+
+in retiler sheet instead od=f area address
